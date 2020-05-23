@@ -32,8 +32,8 @@
 		<tr>
 			<td>TRATAMENTO DO CORONAVÍRUS</td>
 			<td>
-				<a href=" https://matheuseqc.github.io/PORTALCORONAVIRUS4/.">
-				 https://matheuseqc.github.io/PORTALCORONAVIRUS4/.
+				<a href=" https://matheuseqc.github.io/PORTALCORONAVIRUS4/">
+				 https://matheuseqc.github.io/PORTALCORONAVIRUS4/
 				</a>
 			</td>
 		</tr>
